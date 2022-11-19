@@ -1,0 +1,8 @@
+import requests, pprint, urllib, json, time, tqdm
+from tqdm import tqdm
+from pprint import pprint
+from urllib.parse import urljoin
+from Photo import Photo
+requests~=2.28.1
+from VkAPI import VkAPI
+from YaAPI import YaAPI
